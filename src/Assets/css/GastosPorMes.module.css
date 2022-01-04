@@ -1,0 +1,11 @@
+.laterais{
+  display: flex;
+  flex-direction: row;
+  flex-flow: row nowrap;
+  justify-content: center;
+}
+
+.laterais i{
+  font-size: 3rem;
+  color: #CC3917;
+}

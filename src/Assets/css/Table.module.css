@@ -1,0 +1,25 @@
+.corPrimary{  background: #CC3917; }
+
+.corSecondary{  background: #DC765F; }
+ 
+.Main{
+  width: 95%;
+  margin: auto;
+}
+
+.tabela{
+  display: flex;
+  flex-direction: column;
+  height: 250px;
+}
+
+.tBody{
+  display: flex;
+  flex-direction: column;  
+  overflow-y: auto;
+} 
+
+.corHeader {
+  background: #CC3917;
+  color: #fff;
+}

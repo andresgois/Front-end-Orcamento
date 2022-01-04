@@ -1,0 +1,12 @@
+.menu{
+  height: 40px;
+  background: #DC765F;
+}
+
+.menu ul li a{
+  text-decoration: none;  
+}
+
+.menu ul li{
+  list-style: none;
+}
